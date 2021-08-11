@@ -35,6 +35,11 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />][node-demo]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />][chorehelper-demo]
 
+<br/>
+<br/>
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boredtweak&show_icons=true)
+
 [email]: alex.elia42@gmail.com
 [youtube]: https://t.co/3mRqQdxAnr?amp=1
 [twitter]: https://twitter.com/BoredTweak

@@ -1,12 +1,10 @@
-## Hi there 👋 - I'm Alex aka BoredTweak
+# Hi Friends! 
 
-- 🔭 I’m currently working on a little bit of everything!
-  - Check out [my Miscellaneous repository](https://github.com/BoredTweak/Miscellaneous) 
-  - Check out [my ChoreHelper repository](https://github.com/BoredTweak/ChoreHelper) 
-- 💬 Ask me about learning how to self-teach programming!
-  - [Non-Zero Days Videos](https://www.youtube.com/channel/UCT0hVofKq8CM8k8QBiUmpOw) 
-  - [Non-Zero Days Exercises](https://github.com/Non-Zero-Days)
-  - [BoredTweak Exercises](https://github.com/BoredTweak/Exercises)
+- 👋 I'm Alex aka BoredTweak
+- 🤔 I’m on [Twitter][twitter]
+- 🔭 I’m currently working on [a little bit of everything](https://github.com/BoredTweak/Miscellaneous)
+- 💬 Ask me about learning how to [self](https://www.youtube.com/channel/UCT0hVofKq8CM8k8QBiUmpOw)-[teach](https://github.com/Non-Zero-Days) [programming](https://github.com/BoredTweak/Exercises)!
+- 😄 Pronouns: he/him/his
 
 ## Connect with me:
 

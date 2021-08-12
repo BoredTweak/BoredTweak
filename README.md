@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />][csharp-demo]
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/csharp.svg" />][csharp-demo]
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker-demo]
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />][js-demo]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />][react-demo]

@@ -38,7 +38,7 @@
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boredtweak&show_icons=true)
 
-[email]: alex.elia42@gmail.com
+[email]: mailto:alex.elia42@gmail.com
 [youtube]: https://t.co/3mRqQdxAnr?amp=1
 [twitter]: https://twitter.com/BoredTweak
 [linkedin]: https://www.linkedin.com/in/alex-elia/

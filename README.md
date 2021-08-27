@@ -2,11 +2,15 @@
 
 - 👋 I'm Alex aka BoredTweak
 - 🤔 I’m on [Twitter][twitter]
-- 🔭 I’m currently working on [a little bit of everything](https://github.com/BoredTweak/Miscellaneous)
+- 📖 I have a [GitHub Organization aimed at helping self-teach programming][non-zero-days-gh-organization].
+- 📒 I keep track of my own learning [on my BoredTweak GitHub profile][boredtweak-gh].
+- 🧱 I'm trying to keep my [Non-Zero Days GitHub Pages up to date][non-zero-days-gh-pages].
+- 🔭 I’m currently working on [a little bit of everything](https://github.com/BoredTweak/Miscellaneous).
 - 💬 Ask me about learning how to [self](https://www.youtube.com/channel/UCT0hVofKq8CM8k8QBiUmpOw)-[teach](https://github.com/Non-Zero-Days) [programming](https://github.com/BoredTweak/Exercises)!
 - 😄 Pronouns: he/him/his
 
-## Connect with me:
+
+### Connect with me:
 
 [<img align="left" alt="BoredTweak | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 [<img align="left" alt="BoredTweak | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -38,8 +42,11 @@
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boredtweak&show_icons=true)
 
+[non-zero-days-gh-organization]: https://github.com/Non-Zero-Days
+[non-zero-days-gh-pages]: https://non-zero-days.github.io/
+[boredtweak-gh]: https://github.com/BoredTweak
 [email]: mailto:alex.elia42@gmail.com
-[youtube]: https://t.co/3mRqQdxAnr?amp=1
+[youtube]: https://www.youtube.com/channel/UCT0hVofKq8CM8k8QBiUmpOw
 [twitter]: https://twitter.com/BoredTweak
 [linkedin]: https://www.linkedin.com/in/alex-elia/
 [chorehelper-demo]: https://github.com/BoredTweak/ChoreHelper

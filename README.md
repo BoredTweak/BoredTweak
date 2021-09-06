@@ -12,6 +12,8 @@
 
 ## Connect with me
 
+Feel free to contact me at any of these links.
+
 [<img align="left" alt="BoredTweak | Email" width="150px" height="20px" src="https://img.shields.io/badge/BoredTweak%20%7C%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />][email]
 
 [<img align="left" alt="BoredTweak | YouTube" width="150px" height="20px" src="https://img.shields.io/badge/BoredTweak%20%7C%20YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />][youtube]
@@ -23,7 +25,10 @@
 </br>
 </br>
 
+
 ## Languages and Tools:
+
+Here are some technologies with which I tend to play.
 
 [<img align="left" alt="C#" height="20px" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />][csharp-demo]
 [<img align="left" alt="Docker" height="20px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />][docker-demo]
@@ -38,8 +43,11 @@
 [<img align="left" alt="Node.js" height="20px" src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />][node-demo]
 [<img align="left" alt="Visual Studio Code" height="20px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />][chorehelper-demo]
 
-<br/>
-<br/>
+</br>
+</br>
+</br>
+</br>
+
 
 ## GitHub
 

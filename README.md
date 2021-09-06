@@ -12,8 +12,6 @@
 
 ## Connect with me
 
-Feel free to contact me at any of these links.
-
 [<img align="left" alt="BoredTweak | Email" width="150px" height="20px" src="https://img.shields.io/badge/BoredTweak%20%7C%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />][email]
 </br>
 
@@ -27,8 +25,6 @@ Feel free to contact me at any of these links.
 </br>
 
 ## Languages and Tools:
-
-Here are some technologies with which I tend to play.
 
 [<img align="left" alt="C#" height="20px" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />][csharp-demo]
 [<img align="left" alt="Docker" height="20px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />][docker-demo]

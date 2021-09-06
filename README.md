@@ -24,7 +24,7 @@
 [<img align="left" alt="BoredTweak | LinkedIn" width="150px" height="20px" src="https://img.shields.io/badge/BoredTweak%20%7C%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />][linkedin]
 </br>
 
-## Languages and Tools:
+## Languages and Tools
 
 [<img align="left" alt="C#" height="20px" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />][csharp-demo]
 [<img align="left" alt="Docker" height="20px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />][docker-demo]

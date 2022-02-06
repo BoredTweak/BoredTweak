@@ -3,11 +3,9 @@
 - 👋 I'm Alex aka BoredTweak
 - 😄 Pronouns: he/him/his
 - 🤔 I’m on [Twitter][twitter]
-- 📖 I have a [GitHub Organization aimed at helping self-teach programming][non-zero-days-gh-organization].
 - 📒 I keep track of my own learning [on my BoredTweak GitHub profile][boredtweak-gh].
-- 🧱 I'm trying to keep my [Non-Zero Days GitHub Pages up to date][non-zero-days-gh-pages].
+- 🧱 I've drafted exercises for learning programming named [Non-Zero Days][non-zero-days-gh-pages].
 - 🔭 I’m currently working on [a little bit of everything](https://github.com/BoredTweak/Miscellaneous).
-- 💬 Ask me about learning how to [self](https://www.youtube.com/channel/UCT0hVofKq8CM8k8QBiUmpOw)-[teach](https://github.com/Non-Zero-Days) [programming](https://github.com/BoredTweak/Exercises)!
 
 
 ## Connect with me

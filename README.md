@@ -24,20 +24,21 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="C#" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/csharp.svg" />][csharp-demo]
-[<img align="left" alt="Docker" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker-demo]
-[<img align="left" alt="TypeScript" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />][js-demo]
-[<img align="left" alt="React" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/react.svg" />][react-demo]
-[<img align="left" alt="Java" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/java.svg" />][java-demo]
-[<img align="left" alt="Python" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/python.svg" />][python-demo]
-[<img align="left" alt="Postgres" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />][postgres-demo]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git-demo]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][git-demo]
-[<img align="left" alt="Angular" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/angular.svg" />][chorehelper-demo]
-[<img align="left" alt="HTML5" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/html5.svg" />][chorehelper-demo]
-[<img align="left" alt="JavaScript" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/javascript.svg" />][js-demo]
-[<img align="left" alt="Node.js" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/nodedotjs.svg" />][node-demo]
-[<img align="left" alt="Visual Studio Code" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/visualstudiocode.svg" />][chorehelper-demo]
+
+[<img align="left" alt="C#" height="20px" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />][csharp-demo]
+[<img align="left" alt="Python" height="20px" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />][python-demo]
+[<img align="left" alt="Java" height="20px" src="https://img.shields.io/badge/Java-D0A384?style=flat-square&logo=CoffeeScript&logoColor=white" />][java-demo]
+[<img align="left" alt="Docker" height="20px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />][docker-demo]
+[<img align="left" alt="TypeScript" height="20px" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />][js-demo]
+[<img align="left" alt="React" height="20px" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />][react-demo]
+[<img align="left" alt="Postgres" height="20px" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />][postgres-demo]
+[<img align="left" alt="Git" height="20px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />][git-demo]
+[<img align="left" alt="GitHub" height="20px" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />][git-demo]
+[<img align="left" alt="Angular" height="20px" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />][chorehelper-demo]
+[<img align="left" alt="HTML5" height="20px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />][chorehelper-demo]
+[<img align="left" alt="JavaScript" height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />][js-demo]
+[<img align="left" alt="Node.js" height="20px" src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />][node-demo]
+[<img align="left" alt="Visual Studio Code" height="20px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />][chorehelper-demo]
 
 </br>
 </br>
